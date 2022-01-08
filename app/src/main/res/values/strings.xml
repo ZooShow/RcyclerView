@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="contacts">
+        <item>Андрюха</item>
+        <item>Валюха</item>
+        <item>Кентуха</item>
+        <item>Костюха</item>
+        <item>Житомир</item>
+        <item>Надюха</item>
+        <item>Димооооооон!</item>
+        <item>Мишаня</item>
+        <item>Леха</item>
+    </string-array>
+</resources>
